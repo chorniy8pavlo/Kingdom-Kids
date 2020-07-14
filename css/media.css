@@ -1,0 +1,303 @@
+@media (min-width: 280px) and (max-width: 980px) {
+	.row_choose_where,
+	.who_are_we > .row_flex,
+	.about_kindergarten > .row_flex,
+	.row_training_program {
+		display:block;
+	}
+	.text_choose_where,
+	.text_who_are_we,
+	.text_training_program {
+		max-width:none;
+		margin:0 0 25px;
+	}
+	.wrap_slider_choose_where,
+	.img_who_are_we,
+	.wrap_img_about_kindergarten,
+	.img_training_program {
+		margin:0 auto;
+	}
+	.img_who_are_we:before {
+		display:none;
+	}
+	.text_who_are_we p,
+	.text_about_school span {
+		max-width:none;
+	}
+	.who_are_we {
+		padding:110px 0;
+	}
+	.text_about_kindergarten span {
+		max-width:none;
+	}
+	.wrap_img_about_school {
+		min-height:inherit;
+	}
+}
+@media (min-width: 280px) and (max-width: 680px) {
+	.contacts {
+		padding:65px 0 0;
+	}
+	.row_contacts {
+		padding:0;
+		display:block;
+	}
+	.form_contacts {
+		max-width:360px;
+		margin:0 auto;
+		padding:0 15px 85px;
+	}
+	.item_contacts {
+		background:url(../images/bg-important-numbers.jpg);
+		border-radius:0;
+		-moz-border-radius:0;
+		-webkit-border-radius:0;
+		max-width:none;
+		padding:60px 15px;
+	}
+	.wrap_item_contacts {
+		margin:0 auto;
+		display:table;
+	}
+	.item_contacts:before,
+	.item_contacts:after,
+	.wrap_img_about_kindergarten:before,
+	.wrap_img_about_kindergarten:after {
+		display:none;
+	}
+}
+@media (min-width: 280px) and (max-width: 650px) {
+	.main_title {
+		overflow:hidden;
+	}
+	.main_title section {
+		max-width:320px;
+	}
+	.left_col_title,
+	.right_col_title {
+		max-width:none;
+		width:145px;
+		min-height:300px;
+	}
+	.allert,
+	.allert a {
+		font-size:18px;
+		line-height:24px;
+	}
+	.list_important_numbers li {
+		width:50%;
+		margin:0 0 65px;
+	}
+	.left_col_title .row_title {
+		padding:0 5px 0 12px;
+	}
+	.right_col_title .row_title {
+		padding:0 18px 0 5px;
+	}
+	.main_title p {
+		font-size:18px;
+		line-height:26px;
+		margin-bottom:25px;
+	}
+	.main_title a {
+		width:120px;
+		height:30px;
+		line-height:30px;
+		font-size:12px;
+	}
+	.left_col_button {
+		text-indent:30px;
+	}
+	.left_col_button:before {
+		background-size:60%;
+		left:10px;
+	}
+	.right_col_button {
+		text-indent:10px;
+	}
+	.right_col_button:before {
+		background-size:60%;
+		right:10px;
+	}
+}
+@media (min-width: 280px) and (max-width: 620px) {
+	.list_photo_gallery li {
+		width:44%;
+		margin:0 8px 15px;
+	}
+	.list_photo_gallery li img {
+		width:100%;
+		height:auto;
+	}	
+}
+@media (min-width: 280px) and (max-width: 520px) {
+	.slider_reviews {
+		padding:0 0 60px;
+	}
+	.avatar_reviews {
+		display:none;
+	}
+	.row_reviews {
+		padding:0;
+	}
+	.row_reviews+.row_reviews {
+		display:none;
+	}
+	.text_reviews {
+		border-radius:18px;
+		-moz-border-radius:18px;
+		-webkit-border-radius:18px;
+		text-align:center;
+		padding:20px 10px 50px;
+	}
+	.slider_reviews .owl-nav {
+		top:auto;
+		bottom:0;
+	}
+	.tabs {
+		width:215px;
+		margin:0 auto;
+		padding-bottom:50px;
+		justify-content:space-between;
+    	display:flex;
+	}
+	.tabs2 {
+		max-width:290px;
+		width:100%;
+	}
+	.tabs li {
+		font-size:16px;
+		margin:0;
+	}
+	.tabs_items li {
+		font-size:16px;
+		margin:0 20px 20px 0;
+	}
+}
+@media (min-width: 280px) and (max-width: 480px) {
+	.nav_block {
+		text-align:center;
+		padding:50px 10px;
+	}
+	.nav_block ul li {
+		margin:0 auto 15px;
+		display:table;
+	}
+	h2,
+	.text_choose_where h3,
+	.text_training_program h3 {
+		font-size:20px;
+	}
+	.who_are_we {
+		background:none;
+		padding:100px 0;
+	}
+	.text_who_are_we {
+		text-align:center;
+	}
+	.social_who_are_we {
+		margin:0 auto;
+	}
+	.why_all_list li {
+		margin:0 0 50px;
+	}
+	.before_important_numbers,
+	.social_nav h4 {
+		display:none;
+	}
+	.list_important_numbers strong {
+		font-size:50px;
+	}
+	.list_important_numbers p {
+		font-size:14px;
+		line-height:18px;
+	}
+	.kindergarten_title,
+	.school_title {
+		background-position:35% 0;
+	}
+	.kindergarten_text,
+	.school_text {
+		text-align:center;
+	}
+	.section_title h1 {
+		font-size:30px;
+		line-height:35px;
+	}
+}
+@media (min-width: 280px) and (max-width: 380px) {
+	h2 {
+		margin-bottom:30px !important;
+	}
+	.header_phone {
+		width:45px;
+		margin-right:20px;
+	}
+	.header_phone a {
+		background:url(../images/header-phone.png);
+		width:28px;
+		height:28px;
+		font-size:0;
+		display:block;
+	}
+	.header_phone a+a {
+		display:none;
+	}
+	.important_numbers h2 {
+		margin:0 !important;
+		padding:50px 0;
+	}
+	.list_important_numbers {
+		padding-bottom:45px;
+	}
+	.who_are_we,
+	.about_kindergarten,
+	.suggested_items {
+		padding:50px 0;
+	}
+	.choose_where,
+	.reviews,
+	.why_all,
+	.training_program,
+	.photo_gallery {
+		padding:50px 15px;
+	}
+	.why_all {
+		padding-top:70px;
+	}
+	.text_who_are_we span {
+		font-size:18px;
+		line-height:24px;
+	}
+	.text_who_are_we p,
+	.why_all_list li p,
+	.text_choose_where p,
+	.text_reviews p,
+	.form_contacts p {
+		font-size:14px;
+		line-height:18px;
+	}
+	.why_all_list li h3 {
+		min-height:50px;
+		font-size:16px;
+	}
+	.text_choose_where,
+	.text_training_program {
+		text-align:center;
+		margin-bottom:0;
+	}
+	.button_choose_where {
+		position:relative;
+		text-align:left;
+		display:inline-block;
+	}
+	.button_training_program {
+		position:relative;
+		display:inline-block;
+	}
+	.map_list h3,
+	.map_list > p,
+	.map_tabs li {
+		padding-left:20px;
+	}
+}

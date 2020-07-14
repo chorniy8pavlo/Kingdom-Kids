@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'MuseoSansCyrl900';
+    src: url('MuseoSansCyrl900.eot');
+    src: url('MuseoSansCyrl900.eot') format('embedded-opentype'),
+         url('MuseoSansCyrl900.woff2') format('woff2'),
+         url('MuseoSansCyrl900.woff') format('woff'),
+         url('MuseoSansCyrl900.ttf') format('truetype'),
+         url('MuseoSansCyrl900.svg#MuseoSansCyrl900') format('svg');
+}
+@font-face {
+    font-family: 'MuseoSansCyrl700';
+    src: url('MuseoSansCyrl700.eot');
+    src: url('MuseoSansCyrl700.eot') format('embedded-opentype'),
+         url('MuseoSansCyrl700.woff2') format('woff2'),
+         url('MuseoSansCyrl700.woff') format('woff'),
+         url('MuseoSansCyrl700.ttf') format('truetype'),
+         url('MuseoSansCyrl700.svg#MuseoSansCyrl700') format('svg');
+}
+@font-face {
+    font-family: 'MuseoSansCyrl500';
+    src: url('MuseoSansCyrl500.eot');
+    src: url('MuseoSansCyrl500.eot') format('embedded-opentype'),
+         url('MuseoSansCyrl500.woff2') format('woff2'),
+         url('MuseoSansCyrl500.woff') format('woff'),
+         url('MuseoSansCyrl500.ttf') format('truetype'),
+         url('MuseoSansCyrl500.svg#MuseoSansCyrl500') format('svg');
+}
+@font-face {
+    font-family: 'MuseoSansCyrl300';
+    src: url('MuseoSansCyrl300.eot');
+    src: url('MuseoSansCyrl300.eot') format('embedded-opentype'),
+         url('MuseoSansCyrl300.woff2') format('woff2'),
+         url('MuseoSansCyrl300.woff') format('woff'),
+         url('MuseoSansCyrl300.ttf') format('truetype'),
+         url('MuseoSansCyrl300.svg#MuseoSansCyrl300') format('svg');
+}
+@font-face {
+    font-family: 'GeometriaBold';
+    src: url('GeometriaBold.eot');
+    src: url('GeometriaBold.eot') format('embedded-opentype'),
+         url('GeometriaBold.woff2') format('woff2'),
+         url('GeometriaBold.woff') format('woff'),
+         url('GeometriaBold.ttf') format('truetype'),
+         url('GeometriaBold.svg#GeometriaBold') format('svg');
+}
